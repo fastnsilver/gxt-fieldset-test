@@ -9,7 +9,7 @@ A project whose sole purpose is to demonstrate a flaw with nested FieldSet(s) us
 
 * [GWT SDK 2.5.1](http://www.gwtproject.org/release-notes.html#Release_Notes_2_5_1)
 * [GXT 2.3.1](http://cdn.sencha.com/gxt/gxt-2.3.1/release_notes.html#Release_2.3.1)
-*[gwt-test-utils](https://github.com/gwt-test-utils/gwt-test-utils)
+* [gwt-test-utils](https://github.com/gwt-test-utils/gwt-test-utils)
 
 ## Installation
 * [Download](https://github.com/fastnsilver/gxt-fieldset-test/archive/master.zip) this project from Github.
