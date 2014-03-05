@@ -1,5 +1,5 @@
-# GXT Field Set Test
-A project whose sole purpose is to demonstrate a flaw with nested FieldSets using GXT 2.3.x.
+# GXT FieldSet Test
+A project whose sole purpose is to demonstrate a flaw with nested FieldSet(s) using GXT 2.3.x.
 
 ## Pre-requisites
 * [Java SDK 1.7.x](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
@@ -12,7 +12,9 @@ A project whose sole purpose is to demonstrate a flaw with nested FieldSets usin
 *[gwt-test-utils](https://github.com/gwt-test-utils/gwt-test-utils)
 
 ## Installation
-[Download](https://github.com/fastnsilver/gxt-fieldset-test/archive/master.zip) fns-projects from Github.
+* [Download](https://github.com/fastnsilver/gxt-fieldset-test/archive/master.zip) this project from Github.
+* Unpack the .zip file somewhere on your file system.
+* From a shell, compile, test, package and install the source with:
 
 	$ mvn clean install
 
